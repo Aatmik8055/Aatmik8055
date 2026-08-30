@@ -28,12 +28,6 @@
 
 
 ---
-### 🚀 What I'm Currently Working On
-* **Networking & Concurrency:** Designing and optimizing a Java-based HTTP Proxy Server to understand multi-threading, virtual threads, and socket programming.
-* **Intelligent Systems:** Applying ML/NLP techniques to build an AI Resume Analyzer that delivers ATS insights.
-* **DSA Practice:** Sharpening data structures and algorithms through daily competitive programming.
-* **Backend Ecosystem:** Mastering Spring, Spring Boot, Microservices, and basic System Design concepts.
----
 
 
 ### 🛠️ Languages & Technologies
