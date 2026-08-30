@@ -16,13 +16,13 @@
 
 ### 👨‍💻 About Me
 
-* 🎓 B.Tech CSE (AIML) student at **PSIT, Kanpur**
-* 💻 Interested in **Software Engineering, Backend Development & AI/ML**
-* 📖 Focused on learning and improving
-* ☕ Currently building with **Java** and exploring backend engineering
-* 🧠 Strong focus on **DSA & problem solving**
-* 🤖 Exploring **Machine Learning, NLP & Deep Learning**
-* 🔨 Building projects to understand systems beyond just the surface
+- 🎓 Pursuing a **B.Tech in CSE (AIML)** at **PSIT, Kanpur**
+- 💻 Exploring **Software Engineering, Backend Development & AI/ML**
+- 📖 Continuously learning and strengthening my technical skills
+- ☕ Currently working with **Java** while diving deeper into backend engineering
+- 🧠 Building a strong foundation in **DSA & problem solving**
+- 🤖 Learning and experimenting with **Machine Learning, NLP & Deep Learning**
+- 🔨 Developing projects to gain a deeper understanding of how systems work
 
 
 
