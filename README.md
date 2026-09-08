@@ -31,7 +31,7 @@
 
 
 ### 🛠️ Languages & Technologies
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,spring,anaconda,fastapi,sklearn,mysql,mongodb,git,github,idea,vscode&perline=15" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,spring,anaconda,postman,fastapi,sklearn,mysql,mongodb,git,github,idea,vscode&perline=15" />
 
 ---
 
